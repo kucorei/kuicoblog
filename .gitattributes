@@ -1,0 +1,12 @@
+# 避免 windows 下自动转
+
+package-lock.json
+node_modules/
+node_modules
+node_modules
+dist
+*.local
+yarn.lock
+yarn-error.log
+.vscode
+.idea

@@ -1,0 +1,10 @@
+const AHL_SIDEBAR_LINK_SELECTOR = '.sidebar-link';
+const AHL_HEADER_ANCHOR_SELECTOR = '.header-anchor';
+const SEARCH_MAX_SUGGESTIONS = 5
+const SEARCH_HOTKEYS = ['s', '/']
+export default {
+    AHL_SIDEBAR_LINK_SELECTOR,
+    AHL_HEADER_ANCHOR_SELECTOR,
+    SEARCH_MAX_SUGGESTIONS,
+    SEARCH_HOTKEYS
+}
